@@ -1,0 +1,25 @@
+{
+  "name": "todoapp",
+  "version": "1.0.0",
+  "description": "\"todolist single page ape and api\"",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.10.14",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ibnlisha/TodoApp.git"
+  },
+  "author": "Ibn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ibnlisha/TodoApp/issues"
+  },
+  "homepage": "https://github.com/ibnlisha/TodoApp#readme"
+}
